@@ -78,14 +78,13 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     cursor: pointer;
 }
 
 .button:hover,
 .button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #404bbf;
+  background-color: #404bbf;
 }
 
 /* advantages section */
@@ -200,8 +199,4 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-
-
-
-
 
